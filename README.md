@@ -15,11 +15,13 @@ Savant suggested that a contestant should switch to the other door to win a car,
 EXPLANATION:
 Then the possible outcomes can be seen in this table:
 <p align="center">
-  <img src="https://github.com/A-Chandini-Devi/MONTY-HALL-SIMULATION/blob/main/Monty-Hall-Problem-1.jpg" alt="Possible outcome table refer wikipedia" width="600" height="300">
+  <img src="https://github.com/A-Chandini-Devi/MONTY-HALL-SIMULATION/blob/main/Montey%20Hall%20Problem3.png" alt="Possible outcome table refer wikipedia" width="800" height="100">
 </p>
 
 In two out of three cases, changing your selection after one door is revealed increases your chances of winning. This is because there is a higher probability of choosing a door with a goat behind it in the first go, and Monty is guaranteed to reveal another door with a goat behind it.
-
+<p align="center">
+  <img src="https://github.com/A-Chandini-Devi/MONTY-HALL-SIMULATION/blob/main/Montey%20Hall%20Problem2.png" alt="Possible outcome table refer wikipedia" width="800" height="1000">
+</p>
 
 SOLUTION:
 The solution is that switching will let you win twice as often as sticking with the original choice, a result that seems counterintuitive to many. The Monty Hall problem famously embarrassed a large number of mathematicians with doctorate degrees when they attempted to "correct" Marilyn vos Savant's solution in a column in Parade Magazine.
