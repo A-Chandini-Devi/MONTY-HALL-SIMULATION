@@ -1,5 +1,6 @@
 # MONTY-HALL-SIMULATION
 Python  |  Mini Project  |  A brain teaser probability puzzle
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/YOUR_NOTEBOOK_NAME.ipynb)
 
 # Motivation
 The Monty Hall Problem, a probability puzzle, has been a topic of interest due to potential biases in human decision-making. An automated Python program was developed using Python's built-in random function to eliminate unpredictability and ensure fair simulation. The project aims to demonstrate automation's advantages in probability-based scenarios and emphasize precision and fairness in dealing with random events.
