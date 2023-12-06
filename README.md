@@ -35,8 +35,19 @@ In two out of three cases, changing your selection after one door is revealed in
 <p align="center">
   <img src="https://github.com/A-Chandini-Devi/MONTY-HALL-SIMULATION/blob/main/Montey%20Hall%20Problem4.png" alt="Possible outcome Flowchart explained" width="700" height="700">
 </p>
+<br><br>
 
-When the contestant sticks to his/her first choice his/her chances of wining is (33%) - 3 WINS out of 9 chances	whereas when he/she switches the choice the Win percentage is **(66%)** - 6 WINS out of 9 chances.
+**ALGORITHM** 
+ <ol>
+   <li>Get Door 1 as User input - choice</li>
+   <li>3 Doors intilize and randomize</li>
+   <li>Open Door 2 or 3 which doesnot has car randomly</li>
+   <li>Ask your if he/she wants to switch</lii>
+   <li>Open the Door selected </li>
+ </ol>
+ <br><br>
+This ensure the unbiased randomness when the door is selected for the second time encountering the paradox of uncertainity of the car door presence behind the door. And this ensures the result 
+when the contestant sticks to his/her first choice his/her chances of wining is (33%) - 3 WINS out of 9 chances	whereas when he/she switches the choice the Win percentage is **(66%)** - 6 WINS out of 9 chances.
 
 # Conclution
 The solution is that **switching - 66%** will let you win twice as often as sticking with the original choice, a result that seems counterintuitive to many. The Monty Hall problem famously embarrassed a large number of mathematicians with doctorate degrees when they attempted to "correct" Marilyn vos Savant's solution in a column in Parade Magazine.
